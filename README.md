@@ -1,6 +1,6 @@
 # vue-lagou-app
 
-> A Vue.js project 使用vue、vue-router、vuex、vue-resource 仿拉勾网，纯粹练习使用哒~
+> A Vue.js project 使用vue、vue-router、vuex、vue-resource 仿拉勾网，包含slider滑动组件，刚学习vue练练手~
 
 ## Build Setup
 
@@ -23,5 +23,10 @@ npm run e2e
 # run all tests
 npm test
 ```
+![image](https://github.com/lingcaomei/vue-router-vuex-demo/raw/master/showimgs/pic1.png)
+![image](https://github.com/lingcaomei/vue-router-vuex-demo/raw/master/showimgs/pic2.png)
+![image](https://github.com/lingcaomei/vue-router-vuex-demo/raw/master/showimgs/pic3.png)
+![image](https://github.com/lingcaomei/vue-router-vuex-demo/raw/master/showimgs/pic4.png)
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
