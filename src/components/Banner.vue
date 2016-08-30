@@ -49,6 +49,8 @@
 			},
 
 			touchmove(e) {
+				// 阻止浏览器默认行为
+				e.preventDefault();
 				this.moveX = e.touches[0].pageX - this.startX
 			},
 
@@ -80,7 +82,7 @@
 					this.closeAuto()
 					this.sliderTimer = setInterval(()=>{
 						this.move('next')
-					}, 1000)
+					}, 3000)
 				}
 			},
 

@@ -30,7 +30,7 @@ export default {
 
 <style>
 *{padding: 0;margin: 0;box-sizing:border-box;}
-body{font-family: '微软雅黑';font-size: 13px;background: #F2F1F6;width: 100%;overflow-x: hidden;}
+html,body{font-family: '微软雅黑';font-size: 13px;background: #F2F1F6;width: 100%;overflow-x: hidden;}
 ul{list-style: none;}
 a{text-decoration: none;}
 img{border: 0;width: 100%;}
