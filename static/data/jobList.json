@@ -1,0 +1,678 @@
+{"list":[
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1824627,
+        "positionName": "前端开发（微信团队）",
+        "city": "上海",
+        "createTime": "昨天 11:21",
+        "salary": "10k-15k",
+        "companyId": 24995,
+        "companyLogo": "image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+        "companyName": "泛微",
+        "companyFullName": "上海泛微网络科技股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1824629,
+        "positionName": "测试工程师（黑盒）",
+        "city": "上海",
+        "createTime": "昨天 10:53",
+        "salary": "8k-10k",
+        "companyId": 24995,
+        "companyLogo": "image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+        "companyName": "泛微",
+        "companyFullName": "上海泛微网络科技股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865895,
+        "positionName": "管理培训生",
+        "city": "北京",
+        "createTime": "今天 08:43",
+        "salary": "10k-12k",
+        "companyId": 46348,
+        "companyLogo": "image1/M00/00/77/Cgo8PFTUXauAeNlYAABE12ZYmEU829.gif",
+        "companyName": "北京麦田",
+        "companyFullName": "北京麦田房产经纪有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1872399,
+        "positionName": "储备干部",
+        "city": "北京",
+        "createTime": "昨天 15:09",
+        "salary": "8k-10k",
+        "companyId": 46348,
+        "companyLogo": "image1/M00/00/77/Cgo8PFTUXauAeNlYAABE12ZYmEU829.gif",
+        "companyName": "北京麦田",
+        "companyFullName": "北京麦田房产经纪有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1864030,
+        "positionName": "市场专员",
+        "city": "北京",
+        "createTime": "昨天 10:28",
+        "salary": "5k-8k",
+        "companyId": 83882,
+        "companyLogo": "i/image/M00/4C/E3/Cgp3O1ekItuAU-e3AAAbH5oSgFg076.jpg",
+        "companyName": "闪签科技（我在HCM）",
+        "companyFullName": "北京闪签科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1823975,
+        "positionName": "图形渲染工程师",
+        "city": "上海",
+        "createTime": "昨天 10:19",
+        "salary": "20k-40k",
+        "companyId": 89076,
+        "companyLogo": "i/image/M00/4A/40/Cgp3O1eZxeaANtjBAAAHuslaC2M571.jpg",
+        "companyName": "上海幻触",
+        "companyFullName": "上海幻触信息科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1823985,
+        "positionName": "高级原画师",
+        "city": "上海",
+        "createTime": "昨天 10:19",
+        "salary": "18k-25k",
+        "companyId": 89076,
+        "companyLogo": "i/image/M00/4A/40/Cgp3O1eZxeaANtjBAAAHuslaC2M571.jpg",
+        "companyName": "上海幻触",
+        "companyFullName": "上海幻触信息科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1833342,
+        "positionName": "高级咨询顾问",
+        "city": "北京",
+        "createTime": "昨天 10:28",
+        "salary": "10k-20k",
+        "companyId": 83882,
+        "companyLogo": "i/image/M00/4C/E3/Cgp3O1ekItuAU-e3AAAbH5oSgFg076.jpg",
+        "companyName": "闪签科技（我在HCM）",
+        "companyFullName": "北京闪签科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1868247,
+        "positionName": "配置管理工程师",
+        "city": "上海",
+        "createTime": "昨天 15:57",
+        "salary": "8k-15k",
+        "companyId": 43307,
+        "companyLogo": "image2/M00/09/7F/CgpzWlYJ4hWADT1MAAAgaSuHb1E974.jpg",
+        "companyName": "上海圆昶金融信息服务有限公司",
+        "companyFullName": "上海圆昶金融信息服务有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1863248,
+        "positionName": "高级桌面运维工程师",
+        "city": "北京",
+        "createTime": "昨天 17:18",
+        "salary": "9k-13k",
+        "companyId": 3450,
+        "companyLogo": "image1/M00/00/09/CgYXBlTUWBKAOr5hAACxUg3QoJc703.png",
+        "companyName": "北京捷越联合",
+        "companyFullName": "北京捷越联合信息咨询有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865115,
+        "positionName": "安全管理专家",
+        "city": "北京",
+        "createTime": "昨天 22:54",
+        "salary": "25k-35k",
+        "companyId": 2474,
+        "companyLogo": "i/image/M00/00/20/Cgp3O1YtmkSAZjX1AAA78knErXc273.jpg",
+        "companyName": "滴滴出行",
+        "companyFullName": "北京小桔科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865127,
+        "positionName": "反作弊算法研究员",
+        "city": "北京",
+        "createTime": "昨天 22:54",
+        "salary": "20k-30k",
+        "companyId": 2474,
+        "companyLogo": "i/image/M00/00/20/Cgp3O1YtmkSAZjX1AAA78knErXc273.jpg",
+        "companyName": "滴滴出行",
+        "companyFullName": "北京小桔科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865750,
+        "positionName": "Java开发实习生",
+        "city": "杭州",
+        "createTime": "今天 09:04",
+        "salary": "2k-3k",
+        "companyId": 45150,
+        "companyLogo": "image1/M00/00/73/CgYXBlTUXZqAJzQWAABod8pz-h4990.png",
+        "companyName": "杭州施强教育科技有限公司",
+        "companyFullName": "杭州施强网络科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865772,
+        "positionName": "Android开发实习生",
+        "city": "杭州",
+        "createTime": "今天 09:04",
+        "salary": "2k-3k",
+        "companyId": 45150,
+        "companyLogo": "image1/M00/00/73/CgYXBlTUXZqAJzQWAABod8pz-h4990.png",
+        "companyName": "杭州施强教育科技有限公司",
+        "companyFullName": "杭州施强网络科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1819807,
+        "positionName": "功能测试",
+        "city": "上海",
+        "createTime": "昨天 16:59",
+        "salary": "8k-13k",
+        "companyId": 52809,
+        "companyLogo": "image1/M00/1F/46/Cgo8PFUyS4SAQZKFAAA2CrGiEvE523.jpg",
+        "companyName": "新致软件",
+        "companyFullName": "上海新致软件股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1823986,
+        "positionName": "3d场景设计师",
+        "city": "上海",
+        "createTime": "昨天 10:19",
+        "salary": "10k-15k",
+        "companyId": 89076,
+        "companyLogo": "i/image/M00/4A/40/Cgp3O1eZxeaANtjBAAAHuslaC2M571.jpg",
+        "companyName": "上海幻触",
+        "companyFullName": "上海幻触信息科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1824019,
+        "positionName": "QA leader",
+        "city": "上海",
+        "createTime": "昨天 10:19",
+        "salary": "15k-30k",
+        "companyId": 89076,
+        "companyLogo": "i/image/M00/4A/40/Cgp3O1eZxeaANtjBAAAHuslaC2M571.jpg",
+        "companyName": "上海幻触",
+        "companyFullName": "上海幻触信息科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865130,
+        "positionName": "Java高级工程师",
+        "city": "北京",
+        "createTime": "昨天 22:54",
+        "salary": "20k-30k",
+        "companyId": 2474,
+        "companyLogo": "i/image/M00/00/20/Cgp3O1YtmkSAZjX1AAA78knErXc273.jpg",
+        "companyName": "滴滴出行",
+        "companyFullName": "北京小桔科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1865787,
+        "positionName": "C++开发实习生",
+        "city": "杭州",
+        "createTime": "今天 09:05",
+        "salary": "2k-3k",
+        "companyId": 45150,
+        "companyLogo": "image1/M00/00/73/CgYXBlTUXZqAJzQWAABod8pz-h4990.png",
+        "companyName": "杭州施强教育科技有限公司",
+        "companyFullName": "杭州施强网络科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1867381,
+        "positionName": "实习生",
+        "city": "北京",
+        "createTime": "昨天 08:49",
+        "salary": "8k-10k",
+        "companyId": 46348,
+        "companyLogo": "image1/M00/00/77/Cgo8PFTUXauAeNlYAABE12ZYmEU829.gif",
+        "companyName": "北京麦田",
+        "companyFullName": "北京麦田房产经纪有限公司"
+    },
+
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1824124,
+        "positionName": "销售实习生",
+        "city": "北京",
+        "createTime": "昨天 09:33",
+        "salary": "10k-12k",
+        "companyId": 46348,
+        "companyLogo": "image1/M00/00/77/Cgo8PFTUXauAeNlYAABE12ZYmEU829.gif",
+        "companyName": "北京麦田",
+        "companyFullName": "北京麦田房产经纪有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1831704,
+        "positionName": "安全系统架构师",
+        "city": "北京",
+        "createTime": "昨天 22:54",
+        "salary": "20k-30k",
+        "companyId": 2474,
+        "companyLogo": "i/image/M00/00/20/Cgp3O1YtmkSAZjX1AAA78knErXc273.jpg",
+        "companyName": "滴滴出行",
+        "companyFullName": "北京小桔科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1835398,
+        "positionName": "iOS",
+        "city": "北京",
+        "createTime": "2016-08-22",
+        "salary": "20k-35k",
+        "companyId": 50889,
+        "companyLogo": "i/image/M00/03/44/Cgp3O1ax7JWAOSzUAABS3OF0A7w289.jpg",
+        "companyName": "和创科技（红圈营销）",
+        "companyFullName": "和创（北京）科技股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1872095,
+        "positionName": "高级Java工程师",
+        "city": "北京",
+        "createTime": "昨天 11:18",
+        "salary": "18k-30k",
+        "companyId": 53137,
+        "companyLogo": "image1/M00/26/84/CgYXBlVVpKmAT16vAAB-lRbYIa8041.jpg",
+        "companyName": "金色家园科技",
+        "companyFullName": "金色家园网络科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1824910,
+        "positionName": "高级JAVA",
+        "city": "北京",
+        "createTime": "今天 08:42",
+        "salary": "13k-25k",
+        "companyId": 23004,
+        "companyLogo": "i/image/M00/11/9A/Cgp3O1biWaKABjiEAASTrSzDg0Y979.png",
+        "companyName": "图灵机器人",
+        "companyFullName": "北京光年无限科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1829131,
+        "positionName": "U3D开发工程师（应届生）",
+        "city": "深圳",
+        "createTime": "昨天 12:38",
+        "salary": "7k-12k",
+        "companyId": 27585,
+        "companyLogo": "i/image/M00/01/9A/CgqKkVZxCkSADYIvAACbvkctJF0689.png",
+        "companyName": "易帆互动",
+        "companyFullName": "深圳易帆互动科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1873141,
+        "positionName": "资深平台活动运营",
+        "city": "杭州",
+        "createTime": "昨天 10:09",
+        "salary": "15k-25k",
+        "companyId": 41984,
+        "companyLogo": "i/image/M00/50/84/Cgp3O1e0HgKAfPmyAACzICJc2u8895.jpg",
+        "companyName": "爱学贷",
+        "companyFullName": "爱财科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1873174,
+        "positionName": "资深平台运营",
+        "city": "杭州",
+        "createTime": "昨天 10:09",
+        "salary": "15k-25k",
+        "companyId": 41984,
+        "companyLogo": "i/image/M00/50/84/Cgp3O1e0HgKAfPmyAACzICJc2u8895.jpg",
+        "companyName": "爱学贷",
+        "companyFullName": "爱财科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1824146,
+        "positionName": "数据挖掘",
+        "city": "北京",
+        "createTime": "2016-08-22",
+        "salary": "10k-20k",
+        "companyId": 93925,
+        "companyLogo": "image2/M00/06/75/CgpzWlX6NRKAEAUjAABNM999VMQ023.png",
+        "companyName": "凯泰铭",
+        "companyFullName": "凯泰铭科技(北京)有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1864109,
+        "positionName": "高级编辑",
+        "city": "上海",
+        "createTime": "昨天 10:43",
+        "salary": "10k-20k",
+        "companyId": 95490,
+        "companyLogo": "image2/M00/05/3E/CgpzWlX2ZxiALRwkAAAPCC4XOTo701.png?cc=0.461438283091411",
+        "companyName": "小圈",
+        "companyFullName": "上海万众互联信息技术有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1156960,
+        "positionName": "WEB前端开发",
+        "city": "广州",
+        "createTime": "今天 11:45",
+        "salary": "8k-15k",
+        "companyId": 22357,
+        "companyLogo": "i/image/M00/01/51/CgqKkVZnk4GAS9IrAAATb9w1wLk292.png",
+        "companyName": "OpenCom",
+        "companyFullName": "深圳周百通科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2073980,
+        "positionName": "web前端开发",
+        "city": "上海",
+        "createTime": "今天 10:37",
+        "salary": "13k-20k",
+        "companyId": 24995,
+        "companyLogo": "image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+        "companyName": "泛微",
+        "companyFullName": "上海泛微网络科技股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2288569,
+        "positionName": "web前端开发",
+        "city": "杭州",
+        "createTime": "昨天 15:19",
+        "salary": "8k-16k",
+        "companyId": 20493,
+        "companyLogo": "image1/M00/22/42/Cgo8PFVAdl2AE3zXAABzJ3EwVdk764.jpg",
+        "companyName": "新移传媒",
+        "companyFullName": "浙江新华移动传媒有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2293512,
+        "positionName": "web前端开发",
+        "city": "杭州",
+        "createTime": "今天 14:53",
+        "salary": "15k-20k",
+        "companyId": 142537,
+        "companyLogo": "i/image/M00/4C/95/CgqKkVei87KAL875AAJ6qAp2E40509.jpg",
+        "companyName": "弘信控股",
+        "companyFullName": "弘信控股有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 536548,
+        "positionName": "Web前端开发",
+        "city": "广州",
+        "createTime": "今天 09:18",
+        "salary": "6k-12k",
+        "companyId": 59836,
+        "companyLogo": "image1/M00/18/03/Cgo8PFUTbKWAP2X-AAB_JOz3hsY469.png",
+        "companyName": "奥威亚",
+        "companyFullName": "广州市奥威亚电子科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2255056,
+        "positionName": "WEB前端开发",
+        "city": "广州",
+        "createTime": "昨天 14:58",
+        "salary": "8k-12k",
+        "companyId": 120798,
+        "companyLogo": "i/image/M00/3B/1D/CgqKkVdrOp6AEi66AADhFGG1jCI147.png",
+        "companyName": "蜜影科技",
+        "companyFullName": "广州蜜影信息科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2175600,
+        "positionName": "Web前端开发",
+        "city": "深圳",
+        "createTime": "2016-08-24",
+        "salary": "10k-20k",
+        "companyId": 122029,
+        "companyLogo": "i/image/M00/29/08/Cgp3O1ctbB6AY9zPAAM-GfxJcUI588.png",
+        "companyName": "天地同舟",
+        "companyFullName": "深圳市天地同舟科技有限责任公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 623869,
+        "positionName": "Web前端开发",
+        "city": "上海",
+        "createTime": "昨天 10:51",
+        "salary": "15k-25k",
+        "companyId": 23277,
+        "companyLogo": "i/image/M00/1E/08/Cgp3O1cGMCaAdHMjAACnQW07z5Q842.jpg",
+        "companyName": "微知",
+        "companyFullName": "上海微知软件科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2053414,
+        "positionName": "WEB前端开发",
+        "city": "厦门",
+        "createTime": "2016-08-24",
+        "salary": "10k-20k",
+        "companyId": 109736,
+        "companyLogo": "i/image/M00/01/EF/Cgp3O1Z7m0KATidFAAAKjAO9RxY998.jpg",
+        "companyName": "大家网络",
+        "companyFullName": "厦门不多不少科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1270918,
+        "positionName": "web前端开发",
+        "city": "杭州",
+        "createTime": "2016-08-22",
+        "salary": "12k-17k",
+        "companyId": 52809,
+        "companyLogo": "image1/M00/1F/46/Cgo8PFUyS4SAQZKFAAA2CrGiEvE523.jpg",
+        "companyName": "新致软件",
+        "companyFullName": "上海新致软件股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2261851,
+        "positionName": "web前端开发",
+        "city": "杭州",
+        "createTime": "2016-08-19",
+        "salary": "3k-5k",
+        "companyId": 795,
+        "companyLogo": "i/image/M00/11/AB/CgqKkVbicnCALTKRAABfrswbhRs465.png",
+        "companyName": "优才网",
+        "companyFullName": "北京优才创智科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 809640,
+        "positionName": "web前端开发",
+        "city": "上海",
+        "createTime": "2016-08-24",
+        "salary": "10k-20k",
+        "companyId": 66311,
+        "companyLogo": "i/image/M00/00/15/CgqKkVYoclCAL00BAAAQn7lN1qo093.jpg",
+        "companyName": "方付通",
+        "companyFullName": "上海方付通商务服务有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2127116,
+        "positionName": "web前端开发",
+        "city": "广州",
+        "createTime": "2016-08-24",
+        "salary": "10k-15k",
+        "companyId": 55142,
+        "companyLogo": "i/image/M00/24/DF/CgqKkVcddMOAKVSEAADF-GlFUdQ500.png",
+        "companyName": "启汇网络",
+        "companyFullName": "广州启汇营销策划有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2028024,
+        "positionName": "web前端开发",
+        "city": "上海",
+        "createTime": "2016-08-22",
+        "salary": "11k-18k",
+        "companyId": 1313,
+        "companyLogo": "i/image/M00/0D/6D/Cgp3O1bZIoiAerGaAAA8v6kjios552.png",
+        "companyName": "爱福窝",
+        "companyFullName": "上海爱福窝云技术有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 1788148,
+        "positionName": "web前端开发",
+        "city": "上海",
+        "createTime": "昨天 09:23",
+        "salary": "10k-20k",
+        "companyId": 127388,
+        "companyLogo": "i/image/M00/26/8E/Cgp3O1chxPuAJ7QtAAAXXitWZHc112.jpg",
+        "companyName": "上海三逸",
+        "companyFullName": "上海三逸信息科技有限公司"
+    }
+]}
